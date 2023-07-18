@@ -1,0 +1,87 @@
+[
+  {
+    "id": "1",
+    "name": "Java",
+    "icon": "https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"
+  },
+  {
+    "id": "2",
+    "name": "Android",
+    "icon": "https://img.icons8.com/fluency/48/000000/android-os.png"
+  },
+  {
+    "id": "3",
+    "name": "MySQL",
+    "icon": "https://img.icons8.com/color/48/000000/mysql-logo.png"
+  },
+  {
+    "id": "4",
+    "name": "PHP",
+    "icon": "https://img.icons8.com/offices/48/000000/php-logo.png"
+  },
+  {
+    "id": "5",
+    "name": "HTML5",
+    "icon": "https://img.icons8.com/color/48/000000/html-5--v1.png"
+  },
+  {
+    "id": "6",
+    "name": "CSS3",
+    "icon": "https://img.icons8.com/color/48/000000/css3.png"
+  },
+  {
+    "id": "7",
+    "name": "Bootstrap",
+    "icon": "https://img.icons8.com/color/48/000000/bootstrap.png"
+  },
+  {
+    "id": "8",
+    "name": "JavaScript",
+    "icon": "https://img.icons8.com/color/48/000000/javascript--v1.png"
+  },
+  {
+    "id": "9",
+    "name": "jQuery",
+    "icon": "https://img.icons8.com/ios-filled/48/1169ae/jquery.png"
+  },
+  {
+    "id": "10",
+    "name": "ReactJS",
+    "icon": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"
+  },
+  {
+    "id": "11",
+    "name": "NodeJS",
+    "icon": "https://img.icons8.com/color/48/000000/nodejs.png"
+  },
+  {
+    "id": "12",
+    "name": "MongoDB",
+    "icon": "https://img.icons8.com/color/48/000000/mongodb.png"
+  },
+  {
+    "id": "13",
+    "name": "ExpressJS",
+    "icon": "https://img.icons8.com/fluency/48/000000/node-js.png"
+  },
+  {
+    "id": "14",
+    "name": "Heroku",
+    "icon": "https://img.icons8.com/color/48/000000/heroku.png"
+  },
+  {
+    "id": "15",
+    "name": "Redux",
+    "icon": "https://img.icons8.com/color/48/000000/redux.png"
+  },
+  {
+    "id": "16",
+    "name": "GitHub",
+    "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
+  },
+  {
+    "id": "17",
+    "name": "Phaser",
+    "icon": "https://mytat.co/uploads/opportunities/Game_Development_with_Phaser.js1.png"
+  }
+]
