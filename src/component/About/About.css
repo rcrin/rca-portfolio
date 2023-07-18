@@ -1,0 +1,6 @@
+.about-content {
+  gap: 1rem;
+  margin: 50px;
+  min-height: 80vh;
+  align-items: center;
+}

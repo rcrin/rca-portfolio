@@ -1,0 +1,81 @@
+.home-content {
+  gap: 1rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  grid-template-columns: 40% 1fr;
+  padding: 50px 50px 50px 50px;
+  background-color: #1d2225;
+  min-height: 80vh;
+}
+
+.image-wrapper {
+  position: relative;
+  overflow: hidden;
+  padding: 10px;
+  display: grid;
+}
+
+.image-wrapper > img {
+  display: block;
+  width: 100%;
+  object-fit: cover;
+  object-position: center;
+  border-radius: 10px;
+}
+
+.image-wrapper > .text-content {
+  margin: 10px;
+  position: absolute;
+  inset: 0;
+  font-size: small;
+  border-radius: 10px;
+  background: rgba(255, 255, 255, 0.8);
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  padding: 10%;
+  text-decoration: solid;
+}
+
+.image-wrapper > img,
+.image-wrapper > .text-content {
+  transition: 200ms ease-in-out;
+}
+
+.image-wrapper > .text-content {
+  opacity: 0;
+}
+
+.image-wrapper:hover > .text-content {
+  opacity: 1;
+}
+
+.home-text {
+  padding: 5rem;
+  font-family: "Inter", sans-serif;
+  color: aliceblue;
+  display: grid;
+  font-size: 30px;
+}
+
+.gold {
+  color: #bf9b30;
+  font-size: larger;
+  text-align: center;
+}
+
+.avatar {
+  border-radius: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.title {
+  font-size: 28px;
+  font-weight: 1000;
+}
+
+.image-wrapper > .text-content p {
+  font-size: 22px;
+}

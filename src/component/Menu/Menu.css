@@ -1,0 +1,17 @@
+.menu-items {
+  text-align: center;
+  color: #99a4b1;
+  display: grid;
+  gap: 1rem;
+  font-size: medium;
+}
+
+.item:hover {
+  color: aliceblue;
+}
+
+@media (min-width: 40em) {
+  .menu-items {
+    grid-template-columns: 50% 1fr 1fr 1fr 1fr 1fr 1fr;
+  }
+}
